@@ -10,6 +10,7 @@ namespace Quotation
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("I find your lack of faith...disturbing - Darth Vader, Stars Wars Episode IV \"Empire Strikes Back\"");
         }
     }
 }

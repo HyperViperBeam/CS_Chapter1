@@ -10,6 +10,21 @@ namespace Initials
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("   K        K          EEEEEEEEEEEEEEE");
+            Console.WriteLine("   K       K           E");
+            Console.WriteLine("   K      K            E");
+            Console.WriteLine("   K     K             E");
+            Console.WriteLine("   K    K              E");
+            Console.WriteLine("   K   K               E");
+            Console.WriteLine("   K  K                E");
+            Console.WriteLine("   K K                 EEEEEEEEEEEEE");
+            Console.WriteLine("   K K                 E");
+            Console.WriteLine("   K   K               E");
+            Console.WriteLine("   K     K             E");
+            Console.WriteLine("   K      K            E");
+            Console.WriteLine("   K       K           E");
+            Console.WriteLine("   K        K          E");
+            Console.WriteLine("   K         K         EEEEEEEEEEEEEEE");
         }
     }
 }

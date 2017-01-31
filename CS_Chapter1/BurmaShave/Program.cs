@@ -10,6 +10,7 @@ namespace BurmaShave
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(" Henry the Eighth\n Prince of friskers\n Lost five wives\n But kept \n His whiskers");
         }
     }
 }

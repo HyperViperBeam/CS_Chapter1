@@ -10,6 +10,7 @@ namespace Address
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(" Kristopher Ennis\n 123 Cha Cha Sentinel Ave\n New York, New York");
         }
     }
 }
